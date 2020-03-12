@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+language: R
+cache: packages
+
+r_packages:
+  - RTest
+  - testthat
